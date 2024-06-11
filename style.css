@@ -1,9 +1,15 @@
 /* styles.css */
 
 /* Set up the overall body styling */
+
+
+
+
+
 body {
-  font-family: Arial, sans-serif; /* Use Arial as the primary font */
+  font-family: caveat, cursive; /* Use Arial as the primary font */
   display: flex; /* Use flexbox to center the content */
+  flex-direction: column;
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
   height: 100vh; /* Full viewport height */
@@ -25,6 +31,18 @@ body {
     background-position: 0% 50%;
   }
 }
+
+/* Added styling for the heading */
+.head {
+  margin-bottom: 20px;
+}
+
+.head h1 {
+  color: white;
+  margin: 0;
+  font-size: 50px;
+}
+
 
 /* Style the container for the navigation dots */
 .dotcontainer {
@@ -132,9 +150,11 @@ body {
   background-color: #717171; /* Darker color for the active dot */
 }
 
-.head{
-display: inline-block;
-
+/* Added styling for the heading */
+.head h1 {
+  color: white;
+  margin-bottom: 20px;
 }
+
 
 
