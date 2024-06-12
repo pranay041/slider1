@@ -9,6 +9,10 @@ This project is an image slider created using HTML, CSS, and JavaScript. It disp
 
 You can find the project repository on GitHub [here](https://github.com/pranay041/slider1).
 
+You can click on this link for live website view  [link here]( https://pranay041.github.io/slider1/).
+
+
+
 ### Cloning the Repository
 
 To access the project on your local machine, follow these steps:
